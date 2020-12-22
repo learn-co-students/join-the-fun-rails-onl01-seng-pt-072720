@@ -5,3 +5,4 @@ class CreateRides < ActiveRecord::Migration
     end
   end
 end
+rails generate migration add_rides_and_taxis 
